@@ -6,7 +6,7 @@ import numpy as np
 windowname_in = "Example-in"
 windowname_out = "Example-out"
 
-ll = '/Users/okhiroyuki/Documents/python/image/Aerial.bmp'
+ll = './image/adrian.jpg'
 img = cv2.imread(ll)
 
 def doCanny(img,lowThresh,highThresh,aperture):

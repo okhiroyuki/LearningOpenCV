@@ -2,7 +2,7 @@ import cv2
 import sys
 
 # download from http://www.mysticfractal.com/video/avi1.html
-file1 = "/Users/okhiroyuki/Documents/python/avi/dfs.avi"
+file1 = "./avi/dfs.avi"
 
 cv2.namedWindow("Example2",cv2.WINDOW_AUTOSIZE)
 video_capture = cv2.VideoCapture(video_file)

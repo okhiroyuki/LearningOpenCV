@@ -2,8 +2,8 @@ import cv2
 import sys
 import numpy as np
 
-file1 = "/Users/okhiroyuki/Documents/python/avi/dfs.avi"
-file2 = "/Users/okhiroyuki/Documents/python/avi/dfs_out.mp4"
+file1 = "./avi/dfs.avi"
+file2 = "./avi/dfs_out.mp4"
 
 
 cv2.namedWindow("Example",cv2.WINDOW_AUTOSIZE)

@@ -2,7 +2,7 @@ import cv2
 import sys
 
 
-file = "/Users/okhiroyuki/Documents/python/avi/dfs.avi"
+file = "./avi/dfs.avi"
 updatalock = False
 windowname = "Example3"
 trackbarname = "Position"
